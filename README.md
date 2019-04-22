@@ -1,3 +1,3 @@
 ```
-docker run -ti -v ~/rtorrent:/rtorrent schu/rtorrent
+docker run --rm -ti -v ~/rtorrent:/rtorrent schu/rtorrent
 ```
